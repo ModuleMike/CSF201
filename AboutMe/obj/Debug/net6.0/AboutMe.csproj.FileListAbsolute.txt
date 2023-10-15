@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AboutMe\bin\Debug\net6.0\AboutMe.exe
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AboutMe\bin\Debug\net6.0\AboutMe.deps.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AboutMe\bin\Debug\net6.0\AboutMe.runtimeconfig.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AboutMe\bin\Debug\net6.0\AboutMe.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AboutMe\bin\Debug\net6.0\AboutMe.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AboutMe\obj\Debug\net6.0\AboutMe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AboutMe\obj\Debug\net6.0\AboutMe.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AboutMe\obj\Debug\net6.0\AboutMe.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AboutMe\obj\Debug\net6.0\AboutMe.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AboutMe\obj\Debug\net6.0\AboutMe.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AboutMe\obj\Debug\net6.0\refint\AboutMe.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AboutMe\obj\Debug\net6.0\AboutMe.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AboutMe\obj\Debug\net6.0\AboutMe.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AboutMe\obj\Debug\net6.0\ref\AboutMe.dll
