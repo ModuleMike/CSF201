@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AreaCalc\bin\Debug\net6.0\AreaCalc.exe
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AreaCalc\bin\Debug\net6.0\AreaCalc.deps.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AreaCalc\bin\Debug\net6.0\AreaCalc.runtimeconfig.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AreaCalc\bin\Debug\net6.0\AreaCalc.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AreaCalc\bin\Debug\net6.0\AreaCalc.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AreaCalc\obj\Debug\net6.0\AreaCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AreaCalc\obj\Debug\net6.0\AreaCalc.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AreaCalc\obj\Debug\net6.0\AreaCalc.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AreaCalc\obj\Debug\net6.0\AreaCalc.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AreaCalc\obj\Debug\net6.0\AreaCalc.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AreaCalc\obj\Debug\net6.0\refint\AreaCalc.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AreaCalc\obj\Debug\net6.0\AreaCalc.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AreaCalc\obj\Debug\net6.0\AreaCalc.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\AreaCalc\obj\Debug\net6.0\ref\AreaCalc.dll
