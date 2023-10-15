@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\TempConverter\bin\Debug\net6.0\TempConverter.exe
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\TempConverter\bin\Debug\net6.0\TempConverter.deps.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\TempConverter\bin\Debug\net6.0\TempConverter.runtimeconfig.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\TempConverter\bin\Debug\net6.0\TempConverter.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\TempConverter\bin\Debug\net6.0\TempConverter.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\TempConverter\obj\Debug\net6.0\TempConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\TempConverter\obj\Debug\net6.0\TempConverter.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\TempConverter\obj\Debug\net6.0\TempConverter.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\TempConverter\obj\Debug\net6.0\TempConverter.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\TempConverter\obj\Debug\net6.0\TempConverter.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\TempConverter\obj\Debug\net6.0\refint\TempConverter.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\TempConverter\obj\Debug\net6.0\TempConverter.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\TempConverter\obj\Debug\net6.0\TempConverter.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\TempConverter\obj\Debug\net6.0\ref\TempConverter.dll
