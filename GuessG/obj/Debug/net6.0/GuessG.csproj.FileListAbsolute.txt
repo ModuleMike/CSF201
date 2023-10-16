@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\GuessG\bin\Debug\net6.0\GuessG.exe
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\GuessG\bin\Debug\net6.0\GuessG.deps.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\GuessG\bin\Debug\net6.0\GuessG.runtimeconfig.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\GuessG\bin\Debug\net6.0\GuessG.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\GuessG\bin\Debug\net6.0\GuessG.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\GuessG\obj\Debug\net6.0\GuessG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\GuessG\obj\Debug\net6.0\GuessG.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\GuessG\obj\Debug\net6.0\GuessG.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\GuessG\obj\Debug\net6.0\GuessG.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\GuessG\obj\Debug\net6.0\GuessG.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\GuessG\obj\Debug\net6.0\refint\GuessG.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\GuessG\obj\Debug\net6.0\GuessG.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\GuessG\obj\Debug\net6.0\GuessG.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\GuessG\obj\Debug\net6.0\ref\GuessG.dll

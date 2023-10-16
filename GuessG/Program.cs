@@ -1,0 +1,3 @@
+﻿using GuessG;
+
+App.Run();
