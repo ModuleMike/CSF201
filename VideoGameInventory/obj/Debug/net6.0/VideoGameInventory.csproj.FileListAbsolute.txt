@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\VideoGameInventory\bin\Debug\net6.0\VideoGameInventory.exe
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\VideoGameInventory\bin\Debug\net6.0\VideoGameInventory.deps.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\VideoGameInventory\bin\Debug\net6.0\VideoGameInventory.runtimeconfig.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\VideoGameInventory\bin\Debug\net6.0\VideoGameInventory.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\VideoGameInventory\bin\Debug\net6.0\VideoGameInventory.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\VideoGameInventory\obj\Debug\net6.0\VideoGameInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\VideoGameInventory\obj\Debug\net6.0\VideoGameInventory.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\VideoGameInventory\obj\Debug\net6.0\VideoGameInventory.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\VideoGameInventory\obj\Debug\net6.0\VideoGameInventory.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\VideoGameInventory\obj\Debug\net6.0\VideoGameInventory.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\VideoGameInventory\obj\Debug\net6.0\refint\VideoGameInventory.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\VideoGameInventory\obj\Debug\net6.0\VideoGameInventory.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\VideoGameInventory\obj\Debug\net6.0\VideoGameInventory.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\VideoGameInventory\obj\Debug\net6.0\ref\VideoGameInventory.dll
