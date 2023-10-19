@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\RockPPSS\bin\Debug\net6.0\RockPPSS.exe
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\RockPPSS\bin\Debug\net6.0\RockPPSS.deps.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\RockPPSS\bin\Debug\net6.0\RockPPSS.runtimeconfig.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\RockPPSS\bin\Debug\net6.0\RockPPSS.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\RockPPSS\bin\Debug\net6.0\RockPPSS.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\RockPPSS\obj\Debug\net6.0\RockPPSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\RockPPSS\obj\Debug\net6.0\RockPPSS.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\RockPPSS\obj\Debug\net6.0\RockPPSS.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\RockPPSS\obj\Debug\net6.0\RockPPSS.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\RockPPSS\obj\Debug\net6.0\RockPPSS.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\RockPPSS\obj\Debug\net6.0\refint\RockPPSS.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\RockPPSS\obj\Debug\net6.0\RockPPSS.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\RockPPSS\obj\Debug\net6.0\RockPPSS.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\RockPPSS\obj\Debug\net6.0\ref\RockPPSS.dll
