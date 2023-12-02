@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheLockedDoor\bin\Debug\net6.0\TheLockedDoor.exe
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheLockedDoor\bin\Debug\net6.0\TheLockedDoor.deps.json
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheLockedDoor\bin\Debug\net6.0\TheLockedDoor.runtimeconfig.json
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheLockedDoor\bin\Debug\net6.0\TheLockedDoor.dll
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheLockedDoor\bin\Debug\net6.0\TheLockedDoor.pdb
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheLockedDoor\obj\Debug\net6.0\TheLockedDoor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheLockedDoor\obj\Debug\net6.0\TheLockedDoor.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheLockedDoor\obj\Debug\net6.0\TheLockedDoor.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheLockedDoor\obj\Debug\net6.0\TheLockedDoor.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheLockedDoor\obj\Debug\net6.0\TheLockedDoor.dll
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheLockedDoor\obj\Debug\net6.0\refint\TheLockedDoor.dll
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheLockedDoor\obj\Debug\net6.0\TheLockedDoor.pdb
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheLockedDoor\obj\Debug\net6.0\TheLockedDoor.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheLockedDoor\obj\Debug\net6.0\ref\TheLockedDoor.dll
